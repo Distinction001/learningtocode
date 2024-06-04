@@ -1,2 +1,5 @@
 # learningtocode
-my start up learnings on web dev.
+folder creation
+style sheet setups
+shortcut keys mastering
+
